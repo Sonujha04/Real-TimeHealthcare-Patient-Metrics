@@ -1,6 +1,6 @@
 📌 Project Overview
 
-The **Patient Analytics & Insights Dashboard** is a Power BI project designed to monitor hospital performance, patient demographics, admissions, disease trends, and departmental distribution through interactive visualizations.
+The **REAL-TIME HEALTHCARE & PATIENT METRICS** is a Power BI project designed to monitor hospital performance, patient demographics, admissions, disease trends, and departmental distribution through interactive visualizations.
 
 The dashboard enables healthcare professionals and decision-makers to quickly analyze patient-related metrics and make informed operational decisions using real-time filtering and intuitive charts.
 
