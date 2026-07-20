@@ -9,7 +9,7 @@ The dashboard enables healthcare professionals and decision-makers to quickly an
 # 📸 Dashboard Preview
 
 <p align="center">
-  <img src="images/Screenshot%202026-07-21%20015310.png" alt="Healthcare Analytics Dashboard" width="1000"/>
+  <img src="Screenshot 2026-07-21 015310.png" alt="Healthcare Analytics Dashboard" width="1000"/>
 </p>
 
 # 🚀 Features
