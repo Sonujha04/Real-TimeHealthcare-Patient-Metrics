@@ -8,7 +8,9 @@ The dashboard enables healthcare professionals and decision-makers to quickly an
 
 # 📸 Dashboard Preview
 
-"C:\Users\sonu kumar jha\OneDrive\Desktop\healtcare patient analytics\output\Screenshot 2026-07-21 015310.png"
+<p align="center">
+  <img src="images/dashboard.png" alt="Healthcare Analytics Dashboard" width="1000"/>
+</p>
 
 # 🚀 Features
 
